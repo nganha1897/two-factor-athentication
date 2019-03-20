@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 
 /**
  * File: UserRepository.java
-   Returns a password hashed as a string. Contains methods to modify, delete and retrieve user
+ * Returns a password hashed as a string. Contains methods to modify, delete and retrieve user
  * @author Ha Tran
  * @author Kalsang Sherpa
  *
